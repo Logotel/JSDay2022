@@ -15,3 +15,6 @@ https://1990.sambego.tech
 ## Into the Unknown
 https://slides.com/craigspence/into-the-unknown-jsday
 https://gist.github.com/phenomnomnominal/
+
+## Jose
+https://jose.sambego.tech/29
