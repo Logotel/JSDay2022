@@ -18,3 +18,7 @@ https://gist.github.com/phenomnomnominal/
 
 ## Jose
 https://jose.sambego.tech/29
+
+## Web Components
+https://headlessui.dev
+https://bit.dev
