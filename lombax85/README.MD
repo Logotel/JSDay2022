@@ -30,4 +30,7 @@ Code: https://github.com/giltayar/migrate-to-esm-now // downloaded in lombax85/m
 
 se si vuole creare una libreria che supporti sia esm che cjs, fare transpile da esm a cjs, conservare entrambe le versioni e impostare entrambe le versioni negli "exports" del package.json
 
+## When you think there is no time for learning or coding
+https://github.com/Logotel/JSDay2022/blob/main/lombax85/when-you-think-there-is-no-time/slide.pdf
+
 
